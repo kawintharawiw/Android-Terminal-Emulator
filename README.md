@@ -1,4 +1,4 @@
-##**droid+Terminal Emulator**
+##**Adroid+Terminal Emulator**
 
 ###การใช้ terminal emulator บน android 
 ##การสำรวจเครื่องมีการดำเนินการ 2 ส่วน
