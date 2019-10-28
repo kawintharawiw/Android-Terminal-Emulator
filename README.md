@@ -8,7 +8,7 @@
 ##APP เลือกทำเป็น แอพพลิเคชั่น Terminal Emulator
   terminal emulator หรือ โปรแกรมเทอร์มินัล เป็นโปรแกรมแสดงผลเลียนแบบเทอร์มินัลคอมพิวเตอร์ภายในสถาปัตยกรรมการแสดงผลอื่นอีกทอด ถึงแม้คำว่าเทอร์มินัลนี้จะมีความหมายใกล้เคียงกับเชลล์หรือเทอร์มินัลข้อความ แต่ก็ได้รวมเทอร์มินัลประเภทอื่น ๆ เช่น บนส่วนต่อประสานกราฟิก เข้าไปด้วย โปรแกรมเทอร์มินัลภายในส่วนต่อประสานกราฟิกกับผู้ใช้มักเรียกกันว่า หน้าต่างเทอร์มินัล
   
-![Image](http://kawintharawiw.github.io/Android-Terminal-Emulator/11.png) ![Image](http://kawintharawiw.github.io/Android-Terminal-Emulator/22.png)
+![Image](http://kawintharawiw.github.io/Android-Terminal-Emulator/22.png) ![Image](http://kawintharawiw.github.io/Android-Terminal-Emulator/11.png)
 
 #**ตัวอย่าง**Terminal Emulator For Tab
 การสำรวจเครื่องมีการดำเนินการ 2 ส่วน
