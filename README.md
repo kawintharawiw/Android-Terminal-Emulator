@@ -30,4 +30,4 @@
 9. find เพื่อแสดงรายชื่อแฟ้ม หรือ find a หรือ find c
 10. find > c เพื่อนำชื่อแฟ้มไปสร้างเป็นแฟ้ม c
 
-![Image](http://kawintharawiw.github.io/Android-Terminal-Emulator/77pg)
+![Image](http://kawintharawiw.github.io/Android-Terminal-Emulator/77.jpg)
