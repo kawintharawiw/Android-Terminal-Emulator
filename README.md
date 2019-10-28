@@ -1,4 +1,4 @@
-##**Adroid+Terminal Emulator**
+**Adroid+Terminal Emulator**
 
 ###การใช้ terminal emulator บน android 
 
