@@ -32,3 +32,4 @@
 10. find > c เพื่อนำชื่อแฟ้มไปสร้างเป็นแฟ้ม c
 
 ![Image](http://kawintharawiw.github.io/Android-Terminal-Emulator/77.jpg)
+![Image](http://kawintharawiw.github.io/Android-Terminal-Emulator/88.jpg)
