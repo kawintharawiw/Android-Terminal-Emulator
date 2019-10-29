@@ -1,16 +1,24 @@
-**Adroid+Terminal Emulator**
+###Adroid+Terminal Emulator
 
-###การใช้ terminal emulator บน android
+#การใช้ terminal emulator บน android
+![Image](http://kawintharawiw.github.io/Android-Terminal-Emulator/01.jpg) 
 
 ##OS เลือกทำเป็น ระบบ Adroid
-  Android เป็นระบบปฏิบัติการที่มีพื้นฐานอยู่บนลินุกซ์ ในอดีตถูกออกแบบมาสำหรับอุปกรณ์ที่ใช้จอสัมผัส เช่นสมาร์ตโฟน และแท็บเล็ตคอมพิวเตอร์ ปัจจุบันได้แพร่ไปยังอุปกรณ์หลายชนิดเพราะเป็นมาตรฐานเปิด เช่น Nikon S800C กล้องดิจิตอลระบบแอนดรอยด์ หม้อหุงข้าว Panasonic ระบบแอนดรอยด์ และ Smart TV ระบบแอนดรอยด์ รวมถึงกล่องเสียบต่อ TV ทำให้สามารถใช้ระบบแอนดรอยด์ได้ด้วย Android Wear นาฬิกาข้อมือระบบแอนดรอด์ เป็นต้น
+  แอนดรอยด์ (Android) เป็นระบบปฏิบัติการสำหรับอุปกรณ์พกพา เช่น โทรศัพท์มือถือ แท็บเล็ตคอมพิวเตอร์ เน็ตบุ๊ก ทำงานบนลินุกซ์ เคอร์เนล เริ่มพัฒนาโดยบริษัทแอนดรอยด์ (Android Inc.) จากนั้นบริษัทแอนดรอยด์ถูกซื้อโดยกูเกิล (Google) และนำแอนดรอยด์ไปพัฒนาต่อ ภายหลังถูกพัฒนาในนามของ Open Handset Alliance ทางกูเกิลได้เปิดให้นักพัฒนาสามารถแก้ไขโค้ดต่างๆ ด้วยภาษาจาวา และควบคุมอุปกรณ์ผ่านทางชุด Java libraries ที่กูเกิลพัฒนาขึ้น
+![Image](http://kawintharawiw.github.io/Android-Terminal-Emulator/02.png)
+
+###เวอร์ชั่นของแอนดรอยด์
+![Image](http://kawintharawiw.github.io/Android-Terminal-Emulator/100.jpg)
+![Image](http://kawintharawiw.github.io/Android-Terminal-Emulator/200.jpg) 
 
 ##APP เลือกทำเป็น แอพพลิเคชั่น Terminal Emulator
   terminal emulator หรือ โปรแกรมเทอร์มินัล เป็นโปรแกรมแสดงผลเลียนแบบเทอร์มินัลคอมพิวเตอร์ภายในสถาปัตยกรรมการแสดงผลอื่นอีกทอด ถึงแม้คำว่าเทอร์มินัลนี้จะมีความหมายใกล้เคียงกับเชลล์หรือเทอร์มินัลข้อความ แต่ก็ได้รวมเทอร์มินัลประเภทอื่น ๆ เช่น บนส่วนต่อประสานกราฟิก เข้าไปด้วย โปรแกรมเทอร์มินัลภายในส่วนต่อประสานกราฟิกกับผู้ใช้มักเรียกกันว่า หน้าต่างเทอร์มินัล
-  
-![Image](http://kawintharawiw.github.io/Android-Terminal-Emulator/22.png) ![Image](http://kawintharawiw.github.io/Android-Terminal-Emulator/11.png)
 
-#**ตัวอย่าง**Terminal Emulator For Tab
+###เวอร์ชั่นของแอพ
+![Image](http://kawintharawiw.github.io/Android-Terminal-Emulator/44.png)
+![Image](http://kawintharawiw.github.io/Android-Terminal-Emulator/55.png) 
+
+**ตัวอย่างการเล่นและคำสั่ง**Terminal Emulator For Tab
 การสำรวจเครื่องมีการดำเนินการ 2 ส่วน
 1. การสำรวจระบบ android linux
 2. การจัดการแฟ้ม และสารบบ 
